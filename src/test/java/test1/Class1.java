@@ -9,4 +9,11 @@ public class Class1 {
   {
 	  System.out.println("Test 1");
   }
+  
+  @Test
+  public void thirdtest()
+  {
+	  System.out.println("Test 3");
+  }
+  
 }

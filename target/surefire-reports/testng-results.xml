@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="example suite 1" duration-ms="70" started-at="2022-03-13T10:29:54Z" finished-at="2022-03-13T10:29:54Z">
+    <groups>
+    </groups>
+    <test name="Regression suite 1" duration-ms="70" started-at="2022-03-13T10:29:54Z" finished-at="2022-03-13T10:29:54Z">
+      <class name="test1.Class1">
+        <test-method status="PASS" signature="firsttest()[pri:0, instance:test1.Class1@35f983a6]" name="firsttest" duration-ms="18" started-at="2022-03-13T10:29:54Z" finished-at="2022-03-13T10:29:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firsttest -->
+      </class> <!-- test1.Class1 -->
+      <class name="test1.Class2">
+        <test-method status="PASS" signature="Secondtest()[pri:0, instance:test1.Class2@2f7a2457]" name="Secondtest" duration-ms="0" started-at="2022-03-13T10:29:54Z" finished-at="2022-03-13T10:29:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Secondtest -->
+      </class> <!-- test1.Class2 -->
+    </test> <!-- Regression suite 1 -->
+  </suite> <!-- example suite 1 -->
+</testng-results>
